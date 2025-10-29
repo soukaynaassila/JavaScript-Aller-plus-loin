@@ -7,3 +7,4 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
   .catch(error => {
     console.error("Erreur lors de la récupération :", error);
   });
+  //DATA = NOM = SOUKAINA / AGE = 22 ¨
