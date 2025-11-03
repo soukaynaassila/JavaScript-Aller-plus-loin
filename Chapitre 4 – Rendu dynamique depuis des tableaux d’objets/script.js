@@ -14,6 +14,7 @@ let produits = [
       <h3>${p.nom}</h3>
       <p>Prix : ${p.prix} €</p>
     `;
+    
     catalogue.appendChild(carte);
   });
   
