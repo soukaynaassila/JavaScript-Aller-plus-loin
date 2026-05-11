@@ -1,0 +1,7 @@
+Factorisation: kanejeme3o l code li kayete3awed f function bax ne3awed nseta3emloh f3awet copier/coller.
+
+Modularisation: kane9esemo l code l des fichiers bax ybe9a menedem w sahele ex=> main.js w math.js
+
+Template Strings: kaneseta3emelo l backticks (``) bax nedemejo les variables b sohola 
+
+Import / Export : bax kancharek l function bin fichiers
