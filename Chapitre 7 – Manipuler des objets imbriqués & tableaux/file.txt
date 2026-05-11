@@ -1,0 +1,26 @@
+Accès aux propriétés :tari9at l wosol lm3elomal dakhil l  opject b obj.propriete or obj["propriete"]
+
+map():Méthode kadore 3ela l array w katekhele9 arry jedida
+
+push(): Méthode katedife 3onsore jedide f akhir l array
+
+splice(): Méthode kateseta3emel l ta3edil awe l hadefe dakhil l array
+
+🔹 Object.keys(): Méthode katereje3 asemae l keys deyal l object
+ex==>
+let utilisateur = {
+  nom: "Ali",
+  age: 22,
+  ville: "Tanger"
+};
+
+console.log(Object.keys(utilisateur));
+
+result:
+["nom", "age", "ville"]
+
+🔹 Object.values(): Méthode katereje3 values deyal l object 
+ex==>
+console.log(Object.values(utilisateur));
+result:
+["Ali", 22, "Tanger"]
