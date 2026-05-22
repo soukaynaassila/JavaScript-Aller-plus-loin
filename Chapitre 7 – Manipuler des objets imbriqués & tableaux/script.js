@@ -1,17 +1,17 @@
-let utilisateur = {
+let utilisateur = { /*necha2ena wahed object utilisateur*/
   nom: "Sara",
-  adresse: {
+  adresse: {   /*hade l adresse rah object داخل object*/
     ville: "Rabat",
     codePostal: 10000
   },
-  achats: [
+  achats: [/*array fiha bezaf deyal les object deyal l products*/
     { nom: "PC portable", prix: 900 },
     { nom: "Souris", prix: 20 },
     { nom: "Clavier", prix: 40 }
   ]
 };
 
-let liste = document.getElementById("liste-produits");
+let liste = document.getElementById("liste-produits");/*hena jebena <ul> mn html bax nezido fiha l products*/
 
 // Parcourir les achats
 utilisateur.achats.forEach(item => {

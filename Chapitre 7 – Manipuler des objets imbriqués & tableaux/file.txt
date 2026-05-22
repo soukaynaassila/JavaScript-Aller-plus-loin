@@ -1,10 +1,22 @@
 Accès aux propriétés :tari9at l wosol lm3elomal dakhil l  opject b obj.propriete or obj["propriete"]
 
-map():Méthode kadore 3ela l array w katekhele9 arry jedida
+map():Méthode kadore 3ela l array w katekhele9 arry jedida 
+EX/
+let nombres = [1, 2, 3];
+let doubles = nombres.map(n => n * 2);
+console.log(doubles);
+RESULT:
+[2, 4, 6]
 
 push(): Méthode katedife 3onsore jedide f akhir l array
 
-splice(): Méthode kateseta3emel l ta3edil awe l hadefe dakhil l array
+splice(): Méthode kateseta3emel l ta3edil awe l hadefe dakhil l array 
+EX : n suprimi chi haja 
+    let fruits = ["Banane", "Pomme", "Orange"];
+    fruits.splice(1, 1);
+    console.log(fruits); 
+result: 
+  ["Banane", "Orange"]
 
 🔹 Object.keys(): Méthode katereje3 asemae l keys deyal l object
 ex==>
@@ -22,5 +34,5 @@ result:
 🔹 Object.values(): Méthode katereje3 values deyal l object 
 ex==>
 console.log(Object.values(utilisateur));
-result:
+result
 ["Ali", 22, "Tanger"]

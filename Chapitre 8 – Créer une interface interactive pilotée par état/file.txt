@@ -1,0 +1,17 @@
+🔹 State: hiya li katebedel biha chekel l mawe9i3e deyalk
+EX:  
+let panier = [];/* panier hiya state*/
+
+🔹 Mise à jour du DOM: hiya tagheyir l mohetawa li f page mobachara ba3ed tagheyir state
+EX:
+
+🔹 Event (click) : l event kayewe9e3 MELI L user kayecliki 
+EX:
+button.addEventListener("click", ...)
+
+🔹 dataset: katejib l me3elomat li mekhezena f HTML
+EX:
+<button data-prix="900">
+this.dataset.prix 
+result ==> 900
+
